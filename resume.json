@@ -1,0 +1,67 @@
+{
+	"basics": {
+		"name": "Ashank Agarwal",
+		"label": "Student",
+		"picture": "https://drive.google.com/file/d/1LajmF7fXKUlsHyLCsqKO6z5_7O44bUvR/view?usp=sharing",
+		"email": "2019KUCP1112@iiitkota.ac.in",
+		"phone": "8840407145",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "Tilhar, Shahjahanpur",
+			"postalCode": "242307",
+			"city": "Bareilly",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "Ashank2406",
+				"url": "https://www.github.com/Ashank2406/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Ashank Agarwal",
+				"url": "https://www.linkedin.com/in/ashankagarwal"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-07 ",
+		"endDate": "----",
+		"gpa": "8.06",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],'
+  "publications": [{
+		"title": "Image Editor ",
+		"details": "Image editor in Python",
+		"link": "https://github.com/Ashank2406/image-editor"
+    }
+    {
+		"title": "Dino game",
+		"details": "a basic game using arduino uno",
+		"link": "https://github.com/Ashank2406/dino-game"
+	}
+  { 
+    "title": "Web Designing using HTML and CSS",
+		"details": "a simple and interactive website using HTML and CSS",
+		"link": "https://github.com/Ashank2406/Ashank2406.github.io"
+  }
+  ],
+	"skills": [{
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "MySQL", "Blender", "Data Structure and Algorithms", "Java", "Python"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+    }
+    {
+    "name": "Travelling"
+	}],
+	"references": []
+}
